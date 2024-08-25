@@ -1,0 +1,101 @@
+Software engineering is the application of engineering principles, methods and tools 
+in the creation of quality software for various purposes.
+Software engineering is very important in the technology indutry as through it software 
+applications and systems are being created. The created software applications and systems 
+serve various purposes in human life which include health care, commerce, entertainment, 
+communication, education , agriculture , transportation and many more.In health care there 
+are software applications which are used by hospitals for managing overall hospital activities 
+under the name Hospital Management Systems. In education, various software applications are 
+available that provide students with learning materials.Applications such as LMS which serves 
+as the platform that serves as the online classroom for a teacher and studentsSeveral 
+applications also exist for agricultural purposes such as irigation systems, pests detection systems,
+providing extension services through mobile apps and many more.In commerce people can now do business 
+online through various software applications and systems without having to meet physically hence serves time.
+
+Three key milestones in the evolution of software engineering include:
+First,the establishment of software engineering as a discipline in the 1960s: The term "software engineering" was first introduced during the 
+NATO Software Engineering Conference held in Garmisch, Germany. This conference highlighted the growing 
+complexity of software systems and the need for a more structured approach to software development. It marked a shift from ad-hoc programming practices to a more disciplined engineering approach, 
+emphasizing the importance of methodologies, processes, and standards in software development. 
+Second,The advent of structured programming in the 1970s: The 1970s saw the rise of structured programming, 
+which advocated for a clear and logical structure in code. Pioneers like Edsger Dijkstra promoted 
+the use of control structures (such as loops and conditionals) instead of the GOTO statement, 
+which led to more readable and maintainable code. This movement laid the groundwork for later 
+programming paradigms and contributed to the development of better software design practices.
+Third, the rise of agile methodologies in the 2000s: The publication of the Agile Manifesto marked a 
+significant shift in software development methodologies. It emphasized collaboration, flexibility, 
+and customer feedback over rigid planning and documentation. Agile methodologies, such as Scrum and Kanban,
+have since become widely adopted, allowing teams to respond more effectively to changing requirements 
+and deliver software in shorter, iterative cycles. This milestone has transformed how software is developed, 
+focusing on delivering value to users and fostering a culture of continuous improvement.
+
+
+Phases of the Software Development Life Cycle include: Requirement gathering, Design, Implementation, 
+Testing, Deployment and Maintenance.
+Requirement.Requirement gathering involves gathering and documenting user needs and systems requirements
+Design phase involves creating architectural designs for the software including interface, structure and
+modules. Implimentation phase involves writing the actual code and building the software as per the design
+specifications. Testing phase is all about testing the software thoroughly to identify and fix any defects so
+that the software meets the quality standards and functional requirements. In deployment phase, the software
+is being releaed to the customer.Lastly, is the maintenance phase whereby ongoing support, enhancements and
+updates are provided to the software after being deployed.
+
+
+Waterfall is a linear and sequential approach to project management. 
+It consists of distinct phases: requirements, design, implementation, verification, and maintenance. 
+Each phase must be completed before moving on to the next.
+Agile is an iterative and incremental approach that emphasizes flexibility, collaboration, and customer feedback. 
+It allows for continuous improvement and adaptation throughout the project lifecycle.
+Waterfall is best suited for projects with clear, unchanging requirements and a need for strict documentation,
+while Agile is ideal for projects that require flexibility, ongoing collaboration, and the ability 
+to adapt to changing needs.
+
+
+Software engineering team consists of software developer, quality assurance engineer and project manager who have
+various roles and responsibilities as follows.
+Software developer is responsible for writing code and impliment expected software solutions 
+Quality assurance engineer is responsible for ensuring the quality of the developed software solution through 
+designing and executing test plans
+Project manager is responsible for planning, executing and delivery of software project.
+
+
+In the software development process, various tools are being used that provide aid in the whole process.
+Such tools include Integrated Development Environments (IDEs) such as Eclipse, NetBeans and Version Control
+Systems (VCS) such as GIT and Subversion.
+Integrated Development Environments are software package that provide environment for writing, debugging and
+testing the code. It means that through the IDE a software developer is able to do the said activities through
+single piece of software. IDEs provide the editor for writing the code, ability to detect errors and some
+suggestion on how to fix the errors and simple test for the written code to see if it works.
+Version Control Systems (VCS) are software tools for tracking changes to the source code and coordinating work
+among team members. These tools are very important as by using them the software quality is improved,
+increased productivity is observed as more time is served in performing tasks and lastly improved
+collaboration among team members through code sharing.
+
+
+Some common challenges faced by software engineers include:
+Technical Dept, changing requirements and tight deadlines
+In order to overcome these challenges following strategies may be applied:
+using agile methodologies, effective communication, prioritization of tasks, and regular
+reassessment of project goals and timelines.
+
+
+Types of testing include: unit testing, intergration testing, system testing and acceptance testing
+Unit testing involves testing individual components or modules of a software
+intergration testing involves testing the interaction of software components or subsystems
+System testing involves testing the developed software system as a whole
+Acceptance testing involves testing the software system against user requirements so that it meets user needs
+Testing is impotant in software quality assurance as it enables detection and fixing of bugs early 
+in the development process
+
+
+Prompt engineering It involves crafting questions, statements, or instructions that guide the model to 
+produce desired outputs effectively and accurately.
+Prompt engineering is important as it enhances the quality and relevance of responses, improves efficiency, 
+and allows for greater customization and control over the output.
+
+
+Example of a vague prompt "Give me some tips."
+Improved prompt "What are four study tips for college student preparing for an exam?"
+The improved prompt is more effective as it clearly states that study tips are needed and the tips are for a college student preparing 
+for an exam. Also it is specifies the number of required tips.
+
